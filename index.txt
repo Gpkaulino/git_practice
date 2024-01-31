@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>This is a test practice from Gil Paulino King</title>
+	</head>
+</html>
